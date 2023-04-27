@@ -9,7 +9,7 @@
 </h1>
 
 <h3  align = "center">
- <b>I'm an Aspiring Data Analyst from India.</b>
+ <b>I'm an Aspiring Data Analyst.</b>
 </h3>
 <!--<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="1px">-->
 <br>
