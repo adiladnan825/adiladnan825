@@ -19,13 +19,13 @@
 <br>
 <p><img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif"/></p>
 
-- I’m currently working on <b> Analytical Skills</b>.
+- 💡 I’m currently working on <b> Analytical Skills</b>.
 
 - 🌱 I’m currently learning <b> Data Analytics</b>.
 
 - :man_technologist: All of my projects are available at [GitHub](https://github.com/adiladnan825)
 
-- 👀 I’m looking to forward to be succesful Data Analyst
+- 👀 I’m looking forward to be a succesful Data Analyst
 
 - 📫 Reach out to me: [Linkedin](https://www.linkedin.com/in/adiladnan/)
 
