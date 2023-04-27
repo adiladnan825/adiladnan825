@@ -47,6 +47,8 @@
 <br>
 <br>
 
+<!--## 🎖️ Certifications
+<a title="Python (Basic)" href="https://www.hackerrank.com/certificates/ac4c1f1c583a"><img height="60" src="https://user-images.githubusercontent.com/111510084/234940599-c9f5f05a-5343-4a40-8e8f-2eb5add6cd46.png"></a>   -->
 ## 📊 Github Stats
  <br>
  <p align="center" dir="auto">
@@ -64,7 +66,7 @@
 <a href="https://www.linkedin.com/in/adiladnan/" rel="nofollow"><img src="https://camo.githubusercontent.com/162001cc0747178f47ced6e40de0cd16e375beb9b5fbca4ea3d520ecca78cd85/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/linkedin.png" style="max-width: 100%;"></a>
 <a href="https://github.com/adiladnan825"><img src="https://camo.githubusercontent.com/c9de7ec1e54618f8d303a08f58ed31e66323aa28abbb1619c5783bc2735c785e/68747470733a2f2f696d672e69636f6e73382e636f6d2f77696e646f77732f34382f3030303030302f6769746875622e706e67" data-canonical-src="https://img.icons8.com/windows/48/000000/github.png" style="max-width: 100%;"></a>
 <a href="mailto:siddiqiadiladnan@gmail.com"><img src="https://camo.githubusercontent.com/e260052d80402ee1c3c47c1663259d0d952556860eec8eee4118a46b506f43a3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f676d61696c2d6e65772e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/gmail-new.png" style="max-width: 100%;"></a>
-<a href = "https://twitter.com/d2cb05cd41a74a2"><img 
-src = "https://www.google.com/imgres?imgurl=http%3A%2F%2Fstore-images.s-microsoft.com%2Fimage%2Fapps.50484.9007199266244427.4d45042b-d7a5-4a83-be66-97779553b24d.2c71c1ea-c28f-4dd1-b72d-c43cdd3476f4&tbnid=lBvJ1L9HxTQmvM&vet=12ahUKEwjC3pmnosr-AhVxU3wKHXgGAyYQMygLegUIARD3AQ..i&imgrefurl=https%3A%2F%2Fapps.microsoft.com%2Fstore%2Fdetail%2Ftwitter%2F9WZDNCRFJ140&docid=JwrEkNTJQQh3WM&w=720&h=1080&q=twitter&ved=2ahUKEwjC3pmnosr-AhVxU3wKHXgGAyYQMygLegUIARD3AQ"  style="max-width: 100%;"></a>
-</p>
+<!--<a href = "https://twitter.com/d2cb05cd41a74a2"><img 
+src = "https://user-images.githubusercontent.com/111510084/234937047-c785eda4-6add-4faa-b7af-64cf782f3cb4.png"  style="max-width: 100%;"></a>
+</p> -->
 
