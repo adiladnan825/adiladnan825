@@ -18,7 +18,8 @@
 </h2>
 <br>
 <p><img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif"/></p>
-- :telescope: I’m currently working on <b> Analytical Skills</b>.
+
+- I’m currently working on <b> Analytical Skills</b>.
 
 - 🌱 I’m currently learning <b> Data Analytics</b>.
 
