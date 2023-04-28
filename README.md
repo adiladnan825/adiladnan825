@@ -11,6 +11,10 @@
 <h3  align = "center">
  <b>I'm an Aspiring Data Analyst.</b>
 </h3>
+
+Adil Adnan is excited about leveraging his skills and experience to build a career as a data analyst, and is eager to tackle new challenges and drive business value through data-driven insights. He is currently seeking opportunities to apply his skills in a professional setting and make a meaningful impact.
+
+
 <!--<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="1px">-->
 <br>
 <h2>
